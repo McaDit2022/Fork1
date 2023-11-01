@@ -10,6 +10,7 @@ public class Factorial1
                 fact=fact*i;
 
            }
+            //Changes are made in the code
             System.out.println("The factorial of "+f+" is "+fact);
         }
 
